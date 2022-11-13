@@ -1,0 +1,15 @@
+body, .btn-light, .card{
+    background: #e8e8e8 !important;
+}
+
+.border-success, .border-danger, .btn-outline-success, .btn-outline-danger{
+    border: 2px solid !important
+}
+
+.row1 i{
+    color: #09617e;
+}
+
+.btn-light{
+    border: none !important;
+}
